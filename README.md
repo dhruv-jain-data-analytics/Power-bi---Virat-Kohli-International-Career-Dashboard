@@ -1,5 +1,5 @@
 
-# Virat Kohli Internationsl Career Dashboard (Power BI)
+# Virat Kohli International Career Dashboard (Power BI)
 
 ## Project Overview
 
